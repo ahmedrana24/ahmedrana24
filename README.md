@@ -59,7 +59,7 @@ Here are a few projects that showcase my journey:
 <a href="https://www.linkedin.com/in/rana-ahmed-99ba75275">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
-<a href="mailto:rana24work@gmail.com">
+<a href="mailto:ahmedrealwork24@gmail.com">
   <img src="https://img.shields.io/badge/Email-rana24work%40gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
